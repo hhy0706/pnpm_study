@@ -9,4 +9,4 @@ packages:
  ## 声明所有包 
  ## pnpm m ls    查看每个项目的包情况，包括本地包 common
  ## pnpm -F react-demo i ../../common 安装本地包,相对路径得具体看，不用相对路径就从远程获取了
- 
+ ## -F react-demo f后面检索的不是目录的名字而是package.json的name
