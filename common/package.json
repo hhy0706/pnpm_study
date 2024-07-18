@@ -1,0 +1,12 @@
+{
+  "name": "myhhy_common",
+  "version": "1.0.1",
+  "description": "myhhy_common",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hhy",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+packages:
+ #主项目
+ - 'main'
+ #子目录下所有项目
+ - 'web/**'
+ #公共目录
+ - 'common'
+
+ ## 声明所有包 
+ ## pnpm m ls    查看每个项目的包情况，包括本地包 common
+ ## pnpm -F react-demo i ../../common 安装本地包,相对路径得具体看，不用相对路径就从远程获取了
+ 
